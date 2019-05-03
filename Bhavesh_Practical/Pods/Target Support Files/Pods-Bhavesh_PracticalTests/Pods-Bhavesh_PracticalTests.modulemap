@@ -1,0 +1,6 @@
+framework module Pods_Bhavesh_PracticalTests {
+  umbrella header "Pods-Bhavesh_PracticalTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
